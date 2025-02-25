@@ -8,11 +8,10 @@ Hi, I'm Sandy!
 <hr>
 
 <p align="center">
-🚀 **I have a strong interest in Software Engineering and Design**  
-🌟 **Main language:** Ruby  
-😃 **Looking forward to collaborating on impactful projects**  
+	🚀 I have a strong interest in Software Engineering and Design
+	🌟 Main language: Ruby 
+	😃 Looking forward to collaborating on impactful projects }
 </p>
-
 <hr>
 
 ## 🤝 Connect with Me  
@@ -46,6 +45,6 @@ Hi, I'm Sandy!
 <hr>
 
 <p align="center">
-    🔥 **Always eager to learn, innovate, and build**  
-    🚀 **Let's collaborate and make something amazing!**
+	🔥 Always eager to learn, innovate, and build. 
+	🚀 Let's collaborate and make something amazing!
 </p>
