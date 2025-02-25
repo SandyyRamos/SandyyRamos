@@ -23,6 +23,10 @@
   <a href="https://www.instagram.com/sandyyramos/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
+   <a href="https://github.com/SandyyRamos">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bouaskaoun&langs_count=8&layout=compact" alt="bouaskaoun">
+   </a>
+
 </p>
 
 ## 💻 My Tech Stack  
