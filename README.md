@@ -5,13 +5,11 @@
   </a>
 </h1>
 
-<hr>
 
 <p align="center">
   Hello there! Welcome to my GitHub profile! 👋 I'm passionate about backend development, software engineering, and building impactful solutions that solve real-world problems. With a strong foundation in Ruby and a deep interest in system design, I strive to create scalable and efficient applications. As a graduate of the Le Wagon Web Development Bootcamp, I am always eager to grow my skills and contribute to innovative projects that make a difference.
 </p>
 
-<hr>
 
 ## 🤝 Connect with Me  
 
