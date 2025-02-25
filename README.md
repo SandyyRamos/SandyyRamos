@@ -40,6 +40,5 @@
 </p>
 
 <p align="center">
-  🔥 Always driven by curiosity, eager to innovate, and passionate about building scalable, efficient solutions.  
   🚀 Let's collaborate to create something amazing and make a real impact together!
 </p>
