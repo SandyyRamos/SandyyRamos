@@ -1,9 +1,9 @@
-<h1 align="center">
-  🌟 Hi, I'm Sandy!  
+<h2 align="center">
+   Hi, I'm Sandy!  
   <a href="https://github.com/SandyyRamos" target="_self">
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
   </a>
-</h1>
+</h2>
 
 
 <p align="center">
